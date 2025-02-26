@@ -3,8 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-h1{
-    color: black;
-    width: max-content;
+.kk{
+    color: tomato;
+    width: 30px;
     margin: 50px auto;
 }
